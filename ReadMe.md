@@ -53,3 +53,7 @@ Other operating systems are not supported.
 
 ![dashboard](.assets/dashboard.png)
 ![settings](.assets/settings.png)
+
+## Note
+This is a fork from the original Lightbulb application for backup purposes, download the official release instead from https://github.com/Tyrrrz/Lightbulb :D
+-Scottsplays
